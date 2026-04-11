@@ -11,7 +11,7 @@
 
 ### Dedication
 
-*This paper is dedicated to the memory of Wing Commander Namansh Syal, Indian Air Force, who gave his life representing India at Dubai on November 21, 2025. He was 34 years old. He is survived by his wife, Wing Commander Afshan Akhtar of the Indian Air Force, and their daughter Aarya.*
+*This paper is dedicated to the memory of Wing Commander Namansh Syal, Indian Air Force, who gave his life representing India at Dubai on November 21, 2025. He was 34 years old.*
 
 ---
 
@@ -101,11 +101,9 @@ This analysis is based on publicly available data and reconstructed flight condi
 
 ### Citation
 
-If referencing this work, please cite as:
-
 ```
-Sreejith, A., "Inlet Aerodynamic Limitations and Thermal Failure Analysis of the 
-HAL Tejas Mk1: A First-Principles Investigation of the 2025 Dubai Airshow Incident," 
+Sreejith, A., "Inlet Aerodynamic Limitations and Thermal Failure Analysis of the
+HAL Tejas Mk1: A First-Principles Investigation of the 2025 Dubai Airshow Incident,"
 Independent Research Preprint, Palakkad, Kerala, India, April 2026.
 Available: https://github.com/ayushsreejith/tejas-inlet-analysis
 ```
