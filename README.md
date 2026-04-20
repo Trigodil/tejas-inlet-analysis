@@ -85,8 +85,6 @@ tejas-inlet-analysis/
 │       ├── rear_stall.png
 │       ├── rear_thermal.png
 │       └── rear_compressor.png
-├── src/
-│   └── AIAA_Tejas_Dubai_FINAL.tex
 ├── LICENSE
 └── README.md
 ```
