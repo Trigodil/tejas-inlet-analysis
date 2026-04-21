@@ -5,7 +5,7 @@
 **Affiliation:** Independent Researcher, Palakkad, Kerala, India  
 **Contact:** ayushsreejith.research@gmail.com  
 **Date:** April 2026  
-**Status:** Preprint — submitted to AIAA Journal of Propulsion and Power for peer review.
+**Status:** Preprint — submitted to AIAA Journal of Aircraft.
 
 ---
 
