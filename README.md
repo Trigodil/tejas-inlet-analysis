@@ -5,17 +5,16 @@
 **Affiliation:** Independent Researcher, Palakkad, Kerala, India  
 **Contact:** ayushsreejith.research@gmail.com  
 **Date:** April 2026  
-**Status:** Preprint — submitted to AIAA Journal of Aircraft.
 
 ---
 
 ### Dedication
 
-*This paper is dedicated to the memory of Wing Commander Namansh Syal, Indian Air Force, who gave his life representing India at Dubai on November 21, 2025. He was 34 years old.*
+*This paper is dedicated to the memory of Wing Commander Namansh Syal, Indian Air Force, who gave his life representing India at Dubai on November 21, 2025.
 
 ---
 
-### Abstract
+### Summary
 
 On November 21, 2025, Wing Commander Namansh Syal of the Indian Air Force was killed when a HAL Tejas Mk1 light combat aircraft was lost during an aerobatic display at Al Maktoum International Airport, Dubai World Central. He did not eject. The aircraft impacted the ground at approximately 14:10 hrs local time following an unrecovered descent from a low-altitude negative-G maneuver. A Court of Inquiry was immediately ordered by the IAF.
 
