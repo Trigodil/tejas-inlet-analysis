@@ -54,48 +54,6 @@ All analysis is conducted from publicly available data. No classified informatio
 
 ---
 
-### Repository Contents
-
-```
-tejas-inlet-analysis/
-├── paper/
-│   └── Sreejith_Tejas_Inlet_Thermal_Analysis_2026.pdf
-├── figures/
-│   ├── dc60.png
-│   ├── massflow.png
-│   ├── compressor.png
-│   ├── stall_margin.png
-│   ├── thermal_accumulation.png
-│   ├── dsi_graphs/
-│   │   ├── dsi_dc60.png
-│   │   ├── dsi_mass.png
-│   │   ├── dsi_stall.png
-│   │   ├── dsi_thermal.png
-│   │   └── dsi_compressor.png
-│   ├── chin_graphs/
-│   │   ├── chin_dc60.png
-│   │   ├── chin_mass.png
-│   │   ├── chin_stall.png
-│   │   ├── chin_thermal.png
-│   │   └── chin_compressor.png
-│   └── rear_graphs/
-│       ├── rear_dc60.png
-│       ├── rear_mass.png
-│       ├── rear_stall.png
-│       ├── rear_thermal.png
-│       └── rear_compressor.png
-├── LICENSE
-└── README.md
-```
-
----
-
-### Disclaimer
-
-This analysis is based on publicly available data and reconstructed flight conditions. It does not represent an official accident determination. The analysis does not assert causation, but identifies a consistent mechanism through which inlet–engine interaction may reduce propulsion stability under the conditions documented at Dubai on November 21, 2025. The Court of Inquiry constituted by the Indian Air Force holds the flight recorder and telemetry data required for a definitive determination.
-
----
-
 ### Citation
 
 ```
