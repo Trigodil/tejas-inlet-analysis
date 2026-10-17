@@ -22,7 +22,7 @@ This paper presents a first-principles aerodynamic and thermodynamic analysis of
 
 The analysis demonstrates that the lateral intake geometry, while adequate under standard operating conditions, exhibits compounded vulnerability under sustained high-G aerobatic maneuvering in hot, humid environments. The bifurcated side-inlet configuration imposes specific boundary-layer ingestion penalties under negative-G attitudes that a chin or diverterless supersonic inlet (DSI) geometry would not encounter. A flight-timeline-based thermal accumulation model shows that compressor stall margin was progressively eroded throughout the display sequence, with the final negative-G maneuver acting as a threshold event within an already degraded propulsion system rather than an isolated mechanical cause.
 
-The analysis does not assert definitive causation — that determination requires access to flight recorder and telemetry data held by the Court of Inquiry — but establishes a physically consistent and evidence-supported pathway to compressor instability under the documented conditions. The paper concludes with proposed inlet redesign alternatives for the Tejas Mk2 and future LCA variants.
+The analysis does not assert definitive causation (that determination requires access to flight recorder and telemetry data held by the Court of Inquiry), but establishes a physically consistent and evidence-supported pathway to compressor instability under the documented conditions. The paper concludes with proposed inlet redesign alternatives for the Tejas Mk2 and future LCA variants.
 
 ---
 
@@ -50,7 +50,7 @@ All analysis is conducted from publicly available data. No classified informatio
 | Seddon & Goldsmith, Intake Aerodynamics (1999) | Inlet aerodynamic theory and modelling |
 | Mattingly, Elements of Gas Turbine Propulsion (1996) | Compressor thermodynamic framework |
 | GE Aerospace F404 Data Sheet | Engine specifications |
-| HAL / IDRW — Mk1A AAID documentation | 3% pressure recovery improvement evidence |
+| HAL / IDRW: Mk1A AAID documentation | 3% pressure recovery improvement evidence |
 
 ---
 
