@@ -10,7 +10,7 @@
 
 ### Dedication
 
-*This paper is dedicated to the memory of Wing Commander Namansh Syal, Indian Air Force, who gave his life representing India at Dubai on November 21, 2025.
+*This paper is dedicated to the memory of Wing Commander Namansh Syal, Indian Air Force, who gave his life representing India at the Dubai airshow on November 21, 2025.
 
 ---
 
@@ -28,10 +28,10 @@ The analysis does not assert definitive causation (that determination requires a
 
 ### Key Findings
 
-- The Tejas Mk1 bifurcated lateral inlet configuration produces compounding DC60 distortion under high-AoA and negative-G conditions not adequately mitigated by the fixed-geometry splitter plate diverter
-- A lumped-parameter thermal accumulation model, calibrated against NASA F404 exhaust data (TM-88273), demonstrates that the 1–4 s recovery intervals between aerobatic maneuvers are insufficient for thermal dissipation given the F404's 30–45 s thermal time constant
+- The Tejas Mk1 bifurcated lateral inlet configuration produces compounding DC60 distortion under high-AoA and negative-G conditions not adequately mitigated by the fixed-geometry splitter plate diverter.
+- A lumped-parameter thermal accumulation model, calibrated against NASA F404 exhaust data (TM-88273), demonstrates that the 1–4 s recovery intervals between aerobatic maneuvers are insufficient for thermal dissipation given the F404's 30–45 s thermal time constant.
 - Stall margin analysis using the reduced-order model shows threshold failure onset consistent with the documented flight profile
-- The Mk1A's documented 3% pressure recovery improvement via the three-door AAID system constitutes implicit acknowledgment of a pre-existing Mk1 inlet performance deficit
+- The Mk1A's documented 3% pressure recovery improvement via the three-door AAID system constitutes implicit acknowledgment of a pre-existing Mk1 inlet performance deficit.
 - Three redesign alternatives are evaluated and ranked: DSI configuration, chin/ventral intake, and rear-shifted lateral intake
 
 ---
